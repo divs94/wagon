@@ -15,7 +15,7 @@ const product = [
     image: "/assets/women.jpg",
     desc: "A quality product must be aesthetically pleasing as well as practical",
     category: "woman's wear",
-    price: "245",
+    price: "299",
   },
   {
     id: 3,
@@ -23,7 +23,7 @@ const product = [
     image: "/assets/men1.jpg",
     desc: "A quality product must be aesthetically pleasing as well as practical",
     category: "men's wear",
-    price: "245",
+    price: "399",
   },
   {
     id: 4,
@@ -31,7 +31,7 @@ const product = [
     image: "/assets/women5.jpg",
     desc: "A quality product must be aesthetically pleasing as well as practical",
     category: "woman's wear",
-    price: "245",
+    price: "199",
   },
   {
     id: 5,
@@ -39,7 +39,7 @@ const product = [
     image: "/assets/jwlry6.webp",
     desc: "A quality product must be aesthetically pleasing as well as practical",
     category: "jewellery",
-    price: "245",
+    price: "499",
   },
   {
     id: 6,
@@ -47,7 +47,7 @@ const product = [
     image: "/assets/electronic4.webp",
     desc: "A quality product must be aesthetically pleasing as well as practical",
     category: "electronic",
-    price: "245",
+    price: "299",
   },
   {
     id: 7,
@@ -55,7 +55,7 @@ const product = [
     image: "/assets/electronic1.jpg",
     desc: "A quality product must be aesthetically pleasing as well as practical",
     category: "electronic",
-    price: "245",
+    price: "999",
   },
   {
     id: 8,
@@ -63,7 +63,7 @@ const product = [
     image: "/assets/electronic.jpg",
     desc: "A quality product must be aesthetically pleasing as well as practical",
     category: "electronic",
-    price: "245",
+    price: "799",
   },
   ,
   {
@@ -72,7 +72,7 @@ const product = [
     image: "/assets/jwlry3.webp",
     desc: "A quality product must be aesthetically pleasing as well as practical",
     category: "jewellery",
-    price: "245",
+    price: "899",
   },
   {
     id: 10,
@@ -80,7 +80,7 @@ const product = [
     image: "/assets/women1.jpg",
     desc: "A quality product must be aesthetically pleasing as well as practical",
     category: "woman's wear",
-    price: "245",
+    price: "399",
   },
   {
     id: 11,
@@ -88,7 +88,7 @@ const product = [
     image: "/assets/electronic2.png",
     desc: "A quality product must be aesthetically pleasing as well as practical",
     category: "electronic",
-    price: "245",
+    price: "299",
   },
   {
     id: 12,
@@ -96,7 +96,7 @@ const product = [
     image: "/assets/jwlry4.jpg",
     desc: "A quality product must be aesthetically pleasing as well as practical",
     category: "jewellery",
-    price: "245",
+    price: "1999",
   },
   {
     id: 13,
@@ -104,7 +104,7 @@ const product = [
     image: "/assets/women4.jpg",
     desc: "A quality product must be aesthetically pleasing as well as practical",
     category: "woman's wear",
-    price: "245",
+    price: "449",
   },
   {
     id: 14,
@@ -112,7 +112,7 @@ const product = [
     image: "/assets/jwlry6.webp",
     desc: "A quality product must be aesthetically pleasing as well as practical",
     category: "jewellery",
-    price: "245",
+    price: "249",
   },
   {
     id: 15,
@@ -120,7 +120,7 @@ const product = [
     image: "/assets/men3.jpg",
     desc: "A quality product must be aesthetically pleasing as well as practical",
     category: "men's wear",
-    price: "245",
+    price: "399",
   },
   {
     id: 16,
@@ -128,7 +128,7 @@ const product = [
     image: "/assets/men4.webp",
     desc: "A quality product must be aesthetically pleasing as well as practical",
     category: "men's wear",
-    price: "245",
+    price: "1299",
   },
   {
     id: 17,
@@ -136,7 +136,7 @@ const product = [
     image: "/assets/mean1.jpg",
     desc: "A quality product must be aesthetically pleasing as well as practical",
     category: "men's wear",
-    price: "245",
+    price: "999",
   },
   {
     id: 18,
@@ -144,7 +144,7 @@ const product = [
     image: "/assets/women6.jpg",
     desc: "A quality product must be aesthetically pleasing as well as practical",
     category: "woman's wear",
-    price: "245",
+    price: "199",
   },
   {
     id: 19,
@@ -152,7 +152,7 @@ const product = [
     image: "/assets/jwlry4.jpg",
     desc: "A quality product must be aesthetically pleasing as well as practical",
     category: "jewellery",
-    price: "245",
+    price: "1999",
   },
   {
     id: 20,
@@ -160,7 +160,7 @@ const product = [
     image: "/assets/electronic5.webp",
     desc: "A quality product must be aesthetically pleasing as well as practical",
     category: "electronic",
-    price: "245",
+    price: "2999",
   },
   {
     id: 21,
@@ -168,7 +168,7 @@ const product = [
     image: "/assets/jwlry2.jpg",
     desc: "A quality product must be aesthetically pleasing as well as practical",
     category: "jewellery",
-    price: "245",
+    price: "1199",
   },
 ];
 
