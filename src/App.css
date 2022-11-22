@@ -75,13 +75,28 @@ form input {
     padding: 25px !important;
     flex-direction: column !important;
   }
+  .about_section .lead{
+    font-size: 20px ;
+  }
   .about_image img {
     border-radius: 35px;
     width: auto;
+    margin-left: 0 !important;
   }
   .contact_img img{
     width: 350px;
   }
+  .about_section  .contact_btn a{
+text-decoration: none;
+width: 100px;
+}
+.contact_btn {
+    max-width: 300px;
+    }
+    .ms-5 {
+        margin-left: 0 !important;
+      }
+
 }
 @media (min-width: 375px) {
     form input {
@@ -126,6 +141,9 @@ form input {
   }
   .contact_img img{
     width: 350px;
+  }
+  .ms-5 {
+    margin-left: 0 !important;
   }
 }
 @media (min-width: 412px) {
@@ -181,6 +199,9 @@ form input {
   .contact_img img{
     width: 350px;
   }
+  .ms-5 {
+    margin-left: 0 !important;
+  }
 }
 
 
@@ -224,6 +245,9 @@ form input {
   .contact_img img{
     width: 450px;
   }
+  .ms-5 {
+    margin-left: 0 !important;
+  }
 }
 @media (min-width: 600px) {
     form input {
@@ -262,6 +286,9 @@ form input {
   }
   .contact_img img{
     width: 450px;
+  }
+  .ms-5 {
+    margin-left: 3rem !important;
   }
 }
 @media (min-width: 768px) {
@@ -335,6 +362,9 @@ form input {
   }
   .contact_img img{
     width: 750px;
+  }
+  .ms-5 {
+    margin-left: 3rem !important;
   }
 }
 @media (min-width: 1004px) {
@@ -424,6 +454,9 @@ form input {
   .contact_img img{
     width: 750px;
   }
+  .ms-5 {
+    margin-left: 3rem !important;
+  }
 }
 @media (min-width: 1440px) {
     form input {
@@ -448,6 +481,9 @@ form input {
   .contact_img img{
     width: 750px;
   }
+  .ms-5 {
+    margin-left: 3rem !important;
+  }
 }
 @media (min-width: 1920px) {
     form input {
@@ -471,5 +507,8 @@ form input {
   }
   .contact_img img{
     width: 750px;
+  }
+  .ms-5 {
+    margin-left: 3rem !important;
   }
 }
