@@ -7,7 +7,7 @@ export default function About() {
      <div className="container mx-auto about_section">
        <div className="container d-flex flex-row justify-content-center mt-5 pt-5">
         <div className="row">
-          <div className="col-md-8 d-flex flex-column justify-content-center">
+          <div className="col-md-10 d-flex flex-column justify-content-center">
             <h1>About Us</h1>
             <p className="lead">
               Wagon is guided by four principles: customer obsession rather than
@@ -37,10 +37,10 @@ export default function About() {
            </div>
           </div>
         </div>
-        <div className="col-md-6 mt-2 about_image">
+        <div className="col-md-4 mt-2 about_image">
           <img src="/assets/about2.jpg" className="ms-2 mt-2" width="400px" height="250px" alt="" />
           <img src="/assets/about21.webp" className="ms-5 mt-2" width="450px" height="200px" alt="" />
-          <img src="/assets/about.jpg" className="me-4 mt-2" width="350px" height="200px" alt="" />
+          {/* <img src="/assets/about.jpg" className="me-4 mt-2" width="350px" height="200px" alt="" /> */}
         </div>
       </div>
      </div>
