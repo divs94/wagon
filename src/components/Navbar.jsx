@@ -51,13 +51,13 @@ export default function Navbar() {
 
 
 
+       
+
+            <div className="button_nav">
+          
             <Login/>
             <Register/>
-
-            <div className="buttons">
-          
-
-              <Link to="/" className="btn btn-outline-dark ms-2">
+              <Link to="/" className="btn btn-outline-dark ms-2 m-2">
                 <i className="fa fa-shopping-bag me-1" aria-hidden="true"></i>
                 Cart ({state.length})
               </Link>

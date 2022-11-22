@@ -15,8 +15,8 @@ export default function Contact() {
         </div>
         <div className="container d-flex flex-row justify-content-start">
           <div className="row">
-            <div className="col-md-10 d-flex">
-              <img src="/assets/contact.jpg" alt="contactImg" width="750px" />
+            <div className="col-md-10 d-flex contact_img">
+              <img src="/assets/contact.jpg" alt="contactImg"  />
             </div>
           </div>
 

@@ -4,7 +4,8 @@ import { NavLink } from "react-router-dom";
 export default function About() {
   return (
     <>
-      <div className="container d-flex flex-row justify-content-center mt-5 pt-5">
+     <div className="container mx-auto">
+       <div className="container d-flex flex-row justify-content-center mt-5 pt-5">
         <div className="row">
           <div className="col-md-8 d-flex flex-column justify-content-center">
             <h1>About Us</h1>
@@ -40,6 +41,7 @@ export default function About() {
           <img src="/assets/about.jpg" className="me-4 mt-2" width="350px" height="200px" alt="" />
         </div>
       </div>
+     </div>
     </>
   );
 }

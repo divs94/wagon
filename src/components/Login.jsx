@@ -22,7 +22,7 @@ export default function Login() {
     {/* login */}
   <button title="Add client"
         type="button"
-        className="btn btn-outline-dark me-2"
+        className="btn btn-outline-dark me-2 m-2"
         data-bs-toggle="modal"
         data-bs-target="#addClientModel"
       >
